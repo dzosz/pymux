@@ -2,7 +2,7 @@ Pymux
 =====
 
 *A terminal multiplexer (like tmux) in Python*
-
+some extra things
 ::
 
     pip install pymux
